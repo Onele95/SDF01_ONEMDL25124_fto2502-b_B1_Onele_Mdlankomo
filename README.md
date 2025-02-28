@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# The beginning of an exciting journey 🚀
 
 # 👋 Hi, I'm Onele
 
